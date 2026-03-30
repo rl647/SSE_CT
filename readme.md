@@ -67,6 +67,7 @@ python3 seq_to_residue_map.py
 For testing and further fine-tuning on your specific datasets, you can customize and run:
 
 train.py or test.py
+
 ---
 
 ## Citation
