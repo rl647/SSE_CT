@@ -74,8 +74,7 @@ test.py
 ## Citation
 If you use SSE-CT in your research, please cite our work:
 
-Code snippet
-
+```bibtex
 @article{Lin2026,
   title = {Millisecond Prediction of Protein Contact Maps from Amino Acid Sequences},
   url = {[http://dx.doi.org/10.64898/2026.03.15.711852](http://dx.doi.org/10.64898/2026.03.15.711852)},
@@ -85,3 +84,4 @@ Code snippet
   year = {2026},
   month = mar 
 }
+```
