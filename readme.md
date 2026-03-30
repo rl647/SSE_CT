@@ -66,9 +66,7 @@ python3 seq_to_residue_map.py
 ### Stage 4: Customization & Fine-Tuning
 For testing and further fine-tuning on your specific datasets, you can customize and run:
 
-train.py
-
-test.py
+train.py or test.py
 ---
 
 ## Citation
