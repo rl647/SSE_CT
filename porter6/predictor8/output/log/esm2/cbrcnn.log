@@ -1,0 +1,250 @@
+05/29/2024 10:09:44 am model_name: cbrcnn_stage1 
+                 num_params: 121229 
+                 best_epoch: 4 
+                 test_loss: 2.1420316457748414 
+                 max_acc: 0.23159722222222223 
+                 netName: model.cbrcnn_stage1 
+                 batch_size: 1 
+                  train_epochs: 4 
+                 learning_rate: 5e-05 
+
+06/11/2024 08:11:08 pm model_name: cbrcnn_stage1 
+                 num_params: 121218 
+                 best_epoch: 33 
+                 test_loss: 1.5147560802855475 
+                 max_acc: 0.7523327455361923 
+                 netName: model.cbrcnn_stage1 
+                 batch_size: 1 
+                  train_epochs: 35 
+                 learning_rate: 5e-05 
+
+07/07/2024 12:15:32 pm model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 1 
+                     test_loss: 2.053575277328491 
+                     max_acc: 0.37666666666666665 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 12:15:35 pm model_name: cbrcnn_stage1_f2 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 2.0757775783538817 
+                     max_acc: 0.1888045540796964 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 12:15:39 pm model_name: cbrcnn_stage1_f3 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 2.043259525299072 
+                     max_acc: 0.4284386617100372 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 12:15:42 pm model_name: cbrcnn_stage1_f4 
+                     num_params: 121218 
+                     best_epoch: 1 
+                     test_loss: 2.0645097732543944 
+                     max_acc: 0.27808219178082194 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 12:15:45 pm model_name: cbrcnn_stage1_f5 
+                     num_params: 121218 
+                     best_epoch: 1 
+                     test_loss: 2.0800342559814453 
+                     max_acc: 0.10810810810810811 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 08:09:22 pm model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 2.0504656791687013 
+                     max_acc: 0.2198581560283688 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 08:09:26 pm model_name: cbrcnn_stage1_f2 
+                     num_params: 121218 
+                     best_epoch: 1 
+                     test_loss: 2.0407787799835204 
+                     max_acc: 0.4172876304023845 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 08:09:29 pm model_name: cbrcnn_stage1_f3 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 2.05939621925354 
+                     max_acc: 0.30526315789473685 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 08:09:32 pm model_name: cbrcnn_stage1_f4 
+                     num_params: 121218 
+                     best_epoch: 1 
+                     test_loss: 2.0654162883758547 
+                     max_acc: 0.30614115490375804 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/07/2024 08:09:36 pm model_name: cbrcnn_stage1_f5 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 2.0675672054290772 
+                     max_acc: 0.1721170395869191 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/10/2024 01:36:46 pm model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 1.5376942132257303 
+                     max_acc: 0.7272850892490541 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/10/2024 03:29:18 pm model_name: cbrcnn_stage1_f2 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 1.539691277675509 
+                     max_acc: 0.728246194717244 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/10/2024 05:16:40 pm model_name: cbrcnn_stage1_f3 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 1.5407554835975696 
+                     max_acc: 0.7245202380253084 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/10/2024 07:08:36 pm model_name: cbrcnn_stage1_f4 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 1.5394170729581202 
+                     max_acc: 0.7263696116963851 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/10/2024 08:58:06 pm model_name: cbrcnn_stage1_f5 
+                     num_params: 121218 
+                     best_epoch: 2 
+                     test_loss: 1.5416634833085343 
+                     max_acc: 0.7247962724958239 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 2 
+                     learning_rate: 5e-05 
+
+07/14/2024 08:31:32 am model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 24 
+                     test_loss: 1.511030900121729 
+                     max_acc: 0.7583496754381964 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/15/2024 03:09:46 am model_name: cbrcnn_stage1_f2 
+                     num_params: 121218 
+                     best_epoch: 25 
+                     test_loss: 1.5183586241159444 
+                     max_acc: 0.747063667110994 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/17/2024 04:11:03 am model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 22 
+                     test_loss: 1.5152999219969243 
+                     max_acc: 0.7510266991829776 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/18/2024 06:09:51 am model_name: cbrcnn_stage1_f1 
+                     num_params: 121218 
+                     best_epoch: 24 
+                     test_loss: 1.5187432259072737 
+                     max_acc: 0.7486043339630241 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/18/2024 11:21:28 pm model_name: cbrcnn_stage1_f2 
+                     num_params: 121218 
+                     best_epoch: 25 
+                     test_loss: 1.5165359863409404 
+                     max_acc: 0.75107748194668 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/19/2024 04:29:37 pm model_name: cbrcnn_stage1_f3 
+                     num_params: 121218 
+                     best_epoch: 24 
+                     test_loss: 1.513762940107855 
+                     max_acc: 0.7521949459522573 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/20/2024 09:39:31 am model_name: cbrcnn_stage1_f4 
+                     num_params: 121218 
+                     best_epoch: 25 
+                     test_loss: 1.5178336466180362 
+                     max_acc: 0.7499040400790754 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+
+07/21/2024 02:38:00 am model_name: cbrcnn_stage1_f5 
+                     num_params: 121218 
+                     best_epoch: 25 
+                     test_loss: 1.5328686031196992 
+                     max_acc: 0.7331310016307995 
+                     netName: model.cbrcnn_stage1 
+                     batch_size: 1 
+                      train_epochs: 25 
+                     learning_rate: 5e-05 
+

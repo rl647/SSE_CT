@@ -1,0 +1,20 @@
+08/14/2023 03:17:04 am model_name: cnn_baseline_all 
+                 num_params: 1025 
+                 best_epoch: 699 
+                 test_loss: 0.05475079870379341 
+                 max_auc: 0.9128832579061609 
+                 netName: model.cnn_baseline 
+                 batch_size: 1 
+                  train_epochs: 700 
+                 learning_rate: 5e-05 
+
+08/15/2023 09:13:49 am model_name: cnn_baseline_all 
+                 num_params: 1025 
+                 best_epoch: 896 
+                 test_loss: 0.054744894320839496 
+                 max_auc: 0.9131119270088045 
+                 netName: model.cnn_baseline 
+                 batch_size: 1 
+                  train_epochs: 900 
+                 learning_rate: 5e-05 
+

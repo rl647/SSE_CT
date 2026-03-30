@@ -1,0 +1,8 @@
+biopython
+numpy
+scipy
+scikit-learn
+pybind11
+torch
+matplotlib
+seaborn
