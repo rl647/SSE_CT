@@ -55,9 +55,11 @@ Extract the circuit topology using the prepared data:
 
 ```bash
 python3 data_preparation/topo_extraction.py
-Stage 3: Coarse-Grained Residue Prediction
-Generate the coarse-grained, residue-level predictions:
 ```
+
+### Stage 3: Coarse-Grained Residue Prediction
+Generate the coarse-grained, residue-level predictions:
+
 
 ```bash
 
