@@ -17,7 +17,7 @@ By highly compressing protein architectures, this work demonstrates that coarse-
 ### 1. Clone the Repository
 First, clone this repository to your local machine and enter the directory:
 ```bash
-git clone [https://github.com/rl647/SSE_CT.git](https://github.com/rl647/SSE_CT.git)
+git clone https://github.com/rl647/SSE_CT.git
 cd SSE_CT
 ```
 
