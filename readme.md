@@ -9,11 +9,13 @@ By highly compressing protein architectures, this work demonstrates that coarse-
 * **Robust:** Achieves similar accuracy when using either experimental or predicted SSEs.
 * **Targeted:** Highly effective for folding core predictions.
 * **Dynamic Insight:** Able to distinguish rigid bodies from flexible regions based on entropy.
+
 ---
 
 ## Data Availability
 The training data, testing data, and required `ssnw` reference files for SSE extraction are available on Zenodo:
 **DOI:** [10.5281/zenodo.19337562](https://doi.org/10.5281/zenodo.19337562)
+
 ---
 
 ## Set Up the Environment
