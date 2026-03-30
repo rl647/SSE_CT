@@ -1,8 +1,8 @@
 # SSE-CT: Millisecond Prediction of Protein Contact Maps
 
-This repository contains the files for predicting Secondary Structure Element (SSE) contact maps and circuit topology using a generative match model. 
+This repository provides a coarse-grained generative framework for predicting Secondary Structure Element (SSE) contact maps and recovering the Circuit Topology (CT) of proteins using Generative Flow Matching.
 
-This work highlights that coarse-grained secondary structure preserves strong constraints on protein folding. It demonstrates exceptionally strong performance on long-range and beta-sheet interactions, which have traditionally been the bottleneck for residue-based contact predictions. Furthermore, it is extremely fast, enabling rapid explorations for protein-level genotype-phenotype (GP) studies.
+By highly compressing protein architectures, this work demonstrates that coarse-grained secondary structures capture the essential "topological fingerprint" required to determine a global fold. The model exhibits a counter-intuitive robustness in predicting long-range and beta-sheet interactions—areas that have traditionally been bottlenecks for residue-based contact predictions. Capable of completing a contact map prediction from an amino acid sequence in an average of 110 milliseconds on a single GPU, this ultra-fast pipeline facilitates large-scale sampling and rapid exploration of the protein structural genotype-phenotype (GP) map.
 
 ## Key Features
 * **Ultra-Fast:** Completes single predictions in milliseconds on average.
